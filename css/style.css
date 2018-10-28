@@ -209,7 +209,9 @@ img, video, audio, iframe, table, form {
 
 /*////////// HEADER //////////*/
 
-
+header {
+  margin: 0 0 30px;
+}
 
 /*////////// NAVBAR //////////*/
 
