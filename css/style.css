@@ -32,10 +32,17 @@ figcaption {
   box-shadow: 0 3px 10px #333;
 }
 
+.border-right {
+  border-right: 1px dotted #ccc;
+  padding-right: 30px;
+}
 
 /*////////// BACKGROUNDS //////////*/
 
-
+.white-wood {
+  background: url(../images/white-wood.jpg) no-repeat center top;
+  background-size: 100%;
+}
 
 /*/////// MEDIA ////////*/
 
